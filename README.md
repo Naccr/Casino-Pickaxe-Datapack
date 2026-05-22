@@ -11,7 +11,7 @@ This mod is 100% Data-Driven. You do not need to edit the mod jar. You can confi
 📥 Quick Start
 Don't want to start from scratch?
 Click the link below to download the Casino Pickaxe Config Example. Unzip it into your world's datapacks folder to get started immediately!
-👉 https://github.com/Tartuf59/Casino-Pickaxe-Datapack/tree/main
+👉 https://github.com/Naccr/Casino-Pickaxe-Datapack/tree/main
 
 🛠️ How to Configure Manually
 To customize the mod, you need to override the default Tag (for blocks) and Loot Table (for drops) in your Data Pack.
